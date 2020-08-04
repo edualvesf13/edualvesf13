@@ -1,9 +1,7 @@
 <img width="auto" src="https://github.com/edualvesf13/edualvesf13/blob/master/banner-github.png">
 
-# Eduardo Ferreira
-
-## Olá pessoal 👋
-Sou estudante de programação Front-end com foco na stack JavaScript. :computer:
+# Hello World 👋
+> Sou estudante de programação Front-end com foco na stack JavaScript. :computer:
 
  :rocket:  &nbsp; Atualmente, estou focado em aprofundar meu conhecimento sobre HTML, CSS, JavaScript, ReactJs e Node, o que significa que sou um estudante em processo de me tornar um desenvolvedor júnior.
  <br/> :rocket:  &nbsp; Tenho estudado sobre Métodos ágeis, Princípios SOLID e Padrões de projeto, Arquitetura de Software e Testes de Software no curso de extensão de Engenheria de Software Moderna (DCC/UFMG).
