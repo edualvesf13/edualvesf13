@@ -14,6 +14,6 @@ Sou estudante de programação Front-end com foco na stack JavaScript. :computer
  <br/>
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-EduardoFerreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduferreira13/)](https://www.linkedin.com/in/eduferreira13/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-edualesf13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edualvesf13@gmail.com)](mailto:edualvesf13@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-edualvesf13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edualvesf13@gmail.com)](mailto:edualvesf13@gmail.com)
 
 ```
