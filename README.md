@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://github.com/edualvesf13/edualvesf13/blob/master/banner-github.png">
 
 # Eduardo Ferreira
 
